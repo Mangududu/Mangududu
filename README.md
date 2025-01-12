@@ -4,7 +4,7 @@
 - 💞️ I’m looking to start my own company someday (Game developing)
 - 📫 How to reach me: Mangududu@protonmail.com
 - 😄 Pronouns: He/Him
-
+- :yum:
 <!---
 Mangududu/Mangududu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

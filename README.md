@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mangududu
 - 👀 I’m interested in programming and networking
-- 🌱 I’m currently learning C# (while also working a little bit with Python at school)
+- 🌱 I’m currently learning C# (while also working with Python at school)
 - 💞️ I’m looking to start my own company someday (Game developing)
 - 📫 How to reach me: Peterunar@protonmail.com
 - 😄 Pronouns: He/Him
